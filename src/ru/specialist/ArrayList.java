@@ -45,6 +45,7 @@ public class ArrayList {
             int[] array = this.values;
             int amount = 0;
             for (int i : array) {
+
                 amount++;
             }
             return amount;
