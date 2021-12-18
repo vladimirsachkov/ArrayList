@@ -19,7 +19,6 @@ public class ArrayListLauncher {
         //size
         System.out.println(arrayList.size());
         System.out.println("-------");
-
         //remove
         arrayList.remove(2);
         arrayList.showValues();
